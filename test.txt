@@ -12,3 +12,10 @@
 # Mac
 
 .DS_Store
+
+# Adding
+
+git status
+git add .
+git commit -m "message"
+git push
